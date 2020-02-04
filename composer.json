@@ -9,6 +9,7 @@
             "email": "tohizm@gmail.com"
         }
     ],
+	"minimum-stability": "stable",
 	"autoload": {
         "classmap": [
             "nonce-util.php"
